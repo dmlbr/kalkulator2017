@@ -1,6 +1,4 @@
-def dolodowanie():
-	a = int(input('podaj pirwsx licbe'))
-	b = int(input('podaj pirwsx licbe'))
-	print(a+b)
+def dolodowanie(a,b):
+	wynik = a+b
 	
 dolodowanie()
